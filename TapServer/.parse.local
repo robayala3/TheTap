@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "TAP.": {
+      "applicationId": "jEezDrMN5it39KDjyN0asme4taw9BzNR4Cr6au96"
+    },
+    "_default": {
+      "link": "TAP."
+    }
+  }
+}
